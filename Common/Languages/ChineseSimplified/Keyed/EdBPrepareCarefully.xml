@@ -355,7 +355,7 @@
   <EdB.PC.Page.Points.CostSummary.Apparel>服装：{0}</EdB.PC.Page.Points.CostSummary.Apparel>
   <EdB.PC.Page.Points.CostSummary.Colonist>{0}：{1}</EdB.PC.Page.Points.CostSummary.Colonist>
   <EdB.PC.Page.Points.CostSummary.Implants>植入物：{0}</EdB.PC.Page.Points.CostSummary.Implants>
-  <EdB.PC.Page.Points.CostSummary.Possessions>Possessions: {0}</EdB.PC.Page.Points.CostSummary.Possessions>
+  <EdB.PC.Page.Points.CostSummary.Possessions>财产: {0}</EdB.PC.Page.Points.CostSummary.Possessions>
   <EdB.PC.Page.Points.DisablePoints>禁用点数限制</EdB.PC.Page.Points.DisablePoints>
   <EdB.PC.Page.Points.NotEnoughPoints>您使用了过多的点数。</EdB.PC.Page.Points.NotEnoughPoints>
   <EdB.PC.Page.Points.Remaining>剩余点数：{0}</EdB.PC.Page.Points.Remaining>
@@ -458,6 +458,50 @@
 
   <EdB.PC.Panel.WorldPawnList.Title>世界人物</EdB.PC.Panel.WorldPawnList.Title>
 
+  <!--临时添加游戏本体未引入的异象DLC脸形/殖民者类型-->
+  <EdB.PC.HeadType.Male_AverageNormal.label>男性-标准脸</EdB.PC.HeadType.Male_AverageNormal.label>
+  <EdB.PC.HeadType.Male_AveragePointy.label>男性-尖脸</EdB.PC.HeadType.Male_AveragePointy.label>
+  <EdB.PC.HeadType.Male_AverageWide.label>男性-宽脸</EdB.PC.HeadType.Male_AverageWide.label>
+  <EdB.PC.HeadType.Male_NarrowNormal.label>男性-标准窄脸</EdB.PC.HeadType.Male_NarrowNormal.label>
+  <EdB.PC.HeadType.Male_NarrowPointy.label>男性-尖窄脸</EdB.PC.HeadType.Male_NarrowPointy.label>
+  <EdB.PC.HeadType.Male_NarrowWide.label>男性-宽窄脸</EdB.PC.HeadType.Male_NarrowWide.label>
+  <EdB.PC.HeadType.Male_HeavyJawNormal.label>男性-超宽脸脸</EdB.PC.HeadType.Male_HeavyJawNormal.label>
 
+  <EdB.PC.HeadType.Female_AverageNormal.label>女性-标准脸</EdB.PC.HeadType.Female_AverageNormal.label>
+  <EdB.PC.HeadType.Female_AveragePointy.label>女性-尖脸</EdB.PC.HeadType.Female_AveragePointy.label>
+  <EdB.PC.HeadType.Female_AverageWide.label>女性-宽脸</EdB.PC.HeadType.Female_AverageWide.label>
+  <EdB.PC.HeadType.Female_NarrowNormal.label>女性-窄脸</EdB.PC.HeadType.Female_NarrowNormal.label>
+  <EdB.PC.HeadType.Female_NarrowPointy.label>女性-尖窄脸</EdB.PC.HeadType.Female_NarrowPointy.label>
+  <EdB.PC.HeadType.Female_NarrowWide.label>女性-宽窄脸</EdB.PC.HeadType.Female_NarrowWide.label>
+  <EdB.PC.HeadType.Female_HeavyJawNormal.label>女性-超宽脸脸</EdB.PC.HeadType.Female_HeavyJawNormal.label>
 
+  <EdB.PC.HeadType.Furskin_Average1.label>毛茸族-标准1</EdB.PC.HeadType.Furskin_Average1.label>
+  <EdB.PC.HeadType.Furskin_Average2.label>毛茸族-标准2</EdB.PC.HeadType.Furskin_Average2.label>
+  <EdB.PC.HeadType.Furskin_Average3.label>毛茸族-标准3</EdB.PC.HeadType.Furskin_Average3.label>
+
+  <EdB.PC.HeadType.Furskin_Narrow1.label>毛茸族-窄1</EdB.PC.HeadType.Furskin_Narrow1.label>
+  <EdB.PC.HeadType.Furskin_Narrow2.label>毛茸族-窄2</EdB.PC.HeadType.Furskin_Narrow2.label>
+  <EdB.PC.HeadType.Furskin_Narrow3.label>毛茸族-窄3</EdB.PC.HeadType.Furskin_Narrow3.label>
+
+  <EdB.PC.HeadType.Furskin_Heavy1.label>毛茸族-超宽脸1</EdB.PC.HeadType.Furskin_Heavy1.label>
+  <EdB.PC.HeadType.Furskin_Heavy2.label>毛茸族-超宽脸2</EdB.PC.HeadType.Furskin_Heavy2.label>
+  <EdB.PC.HeadType.Furskin_Heavy3.label>毛茸族-超宽脸3</EdB.PC.HeadType.Furskin_Heavy3.label>
+
+  <EdB.PC.HeadType.Furskin_Gaunt.label>毛茸族-憔悴脸</EdB.PC.HeadType.Furskin_Gaunt.label>
+  
+  <EdB.PC.HeadType.Gaunt.label>憔悴脸</EdB.PC.HeadType.Gaunt.label>
+  
+  <EdB.PC.HeadType.Ghoul_Normal.label>食尸鬼-普通脸</EdB.PC.HeadType.Ghoul_Normal.label>
+  <EdB.PC.HeadType.Ghoul_Narrow.label>食尸鬼-窄脸</EdB.PC.HeadType.Ghoul_Narrow.label>
+  <EdB.PC.HeadType.Ghoul_Wide.label>食尸鬼-宽脸</EdB.PC.HeadType.Ghoul_Wide.label>
+  <EdB.PC.HeadType.Ghoul_Heavy.label>食尸鬼-超宽脸</EdB.PC.HeadType.Ghoul_Heavy.label>
+  <EdB.PC.HeadType.CultEscapee.label>邪教脱逃者</EdB.PC.HeadType.CultEscapee.label>
+  <EdB.PC.HeadType.TimelessOne.label>永恒之人</EdB.PC.HeadType.TimelessOne.label>
+  <EdB.PC.HeadType.DarkScholar_Male.label>男性暗黑学者</EdB.PC.HeadType.DarkScholar_Male.label>
+  <EdB.PC.HeadType.Leathery_Male.label>男性皮衣怪人</EdB.PC.HeadType.Leathery_Male.label>
+  <EdB.PC.HeadType.DarkScholar_Female.label>女性暗黑学者</EdB.PC.HeadType.DarkScholar_Female.label>
+  <EdB.PC.HeadType.Leathery_Female.label>女性皮衣怪人</EdB.PC.HeadType.Leathery_Female.label>
+
+  <!--Null派系殖民者类型-->
+  <EdB.PC.PawnKind.Other>其他</EdB.PC.PawnKind.Other>
 </LanguageData>

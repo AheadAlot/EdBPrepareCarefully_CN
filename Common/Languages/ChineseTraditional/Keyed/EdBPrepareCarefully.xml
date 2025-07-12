@@ -208,9 +208,6 @@
   <EdB.PC.Dialog.Implant.Button.Confirm>應用</EdB.PC.Dialog.Implant.Button.Confirm>
   <EdB.PC.Dialog.Implant.Conflict>此植入物不能被安裝，因爲有以下衝突：\n\n- {0}，{1}</EdB.PC.Dialog.Implant.Conflict>
   <EdB.PC.Dialog.Implant.Header>選擇一個植入物或仿生體</EdB.PC.Dialog.Implant.Header>
-  <EdB.PC.Dialog.Implant.InstallImplantLabel>植入物 {0}</EdB.PC.Dialog.Implant.InstallImplantLabel>
-  <EdB.PC.Dialog.Implant.RequiredImplantMessage>此植入物必須添加，因爲它是你選擇的其他植入物所必需的。</EdB.PC.Dialog.Implant.RequiredImplantMessage>
-  <EdB.PC.Dialog.Implant.LevelLabel>{0}:</EdB.PC.Dialog.Implant.LevelLabel>
 
   <EdB.PC.Dialog.Injury.Header>選擇一個狀態</EdB.PC.Dialog.Injury.Header>
   <EdB.PC.Dialog.Injury.Error.Required>您必須選擇一個狀態</EdB.PC.Dialog.Injury.Error.Required>
@@ -265,7 +262,6 @@
   <EdB.PC.Equipment.Type.Apparel>服裝</EdB.PC.Equipment.Type.Apparel>
   <EdB.PC.Equipment.Type.Buildings>家具</EdB.PC.Equipment.Type.Buildings>
   <EdB.PC.Equipment.Type.Food>食物</EdB.PC.Equipment.Type.Food>
-  <EdB.PC.Equipment.Type.Mechs>機械體</EdB.PC.Equipment.Type.Mechs>
   <EdB.PC.Equipment.Type.Medical>藥物</EdB.PC.Equipment.Type.Medical>
   <EdB.PC.Equipment.Type.Resources>資源</EdB.PC.Equipment.Type.Resources>
   <EdB.PC.Equipment.Type.Weapons>武器</EdB.PC.Equipment.Type.Weapons>
@@ -273,12 +269,10 @@
   <EdB.PC.Equipment.LoadingProgress.StuffDefs>材料加載中…</EdB.PC.Equipment.LoadingProgress.StuffDefs>
   <EdB.PC.Equipment.LoadingProgress.ThingDefs>物品加載中…</EdB.PC.Equipment.LoadingProgress.ThingDefs>
   <EdB.PC.Equipment.LoadingProgress.Finished>完成</EdB.PC.Equipment.LoadingProgress.Finished>
-  <EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>{0}: {1}%</EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>與殖民者一起生成</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>在殖民者附近生成</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>持有者 - {0}</EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>
   <EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>動物</EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>
-  <EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>機械體</EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>
   <EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>所有種類</EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>
   <EdB.PC.Equipment.AvailableEquipment.AllModsOption>所有擴展</EdB.PC.Equipment.AvailableEquipment.AllModsOption>
   <EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>點數: {0}</EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>
@@ -287,11 +281,8 @@
   <EdB.PC.Equipment.AvailableEquipment.GenderLabel>性別:</EdB.PC.Equipment.AvailableEquipment.GenderLabel>
   <EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>襲擊點數:</EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>
   <EdB.PC.Equipment.AvailableEquipment.MaterialLabel>材質:</EdB.PC.Equipment.AvailableEquipment.MaterialLabel>
-  <EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>機械體</EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>
   <EdB.PC.Equipment.AvailableEquipment.QualityLabel>質量:</EdB.PC.Equipment.AvailableEquipment.QualityLabel>
-  <EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>{0}:</EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>
   <EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>隨機寵物</EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>
-  <EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>隨機機械體</EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>
   <EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>生成類型:</EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>
   <EdB.PC.Equipment.AvailableEquipment.StyleLabel>風格:</EdB.PC.Equipment.AvailableEquipment.StyleLabel>
 
@@ -355,7 +346,7 @@
   <EdB.PC.Page.Points.CostSummary.Apparel>服裝：{0}</EdB.PC.Page.Points.CostSummary.Apparel>
   <EdB.PC.Page.Points.CostSummary.Colonist>{0}：{1}</EdB.PC.Page.Points.CostSummary.Colonist>
   <EdB.PC.Page.Points.CostSummary.Implants>植入物：{0}</EdB.PC.Page.Points.CostSummary.Implants>
-  <EdB.PC.Page.Points.CostSummary.Possessions>Possessions: {0}</EdB.PC.Page.Points.CostSummary.Possessions>
+  <EdB.PC.Page.Points.CostSummary.Possessions>財產: {0}</EdB.PC.Page.Points.CostSummary.Possessions>
   <EdB.PC.Page.Points.DisablePoints>禁用點數限製</EdB.PC.Page.Points.DisablePoints>
   <EdB.PC.Page.Points.NotEnoughPoints>您使用了過多的點數。</EdB.PC.Page.Points.NotEnoughPoints>
   <EdB.PC.Page.Points.Remaining>剩餘點數：{0}</EdB.PC.Page.Points.Remaining>
@@ -458,6 +449,50 @@
 
   <EdB.PC.Panel.WorldPawnList.Title>世界人物</EdB.PC.Panel.WorldPawnList.Title>
 
+  <!--臨時添加遊戲本體未引入的異象DLC臉形/殖民者類型-->
+  <EdB.PC.HeadType.Male_AverageNormal.label>男性-標準臉</EdB.PC.HeadType.Male_AverageNormal.label>
+  <EdB.PC.HeadType.Male_AveragePointy.label>男性-尖臉</EdB.PC.HeadType.Male_AveragePointy.label>
+  <EdB.PC.HeadType.Male_AverageWide.label>男性-寬臉</EdB.PC.HeadType.Male_AverageWide.label>
+  <EdB.PC.HeadType.Male_NarrowNormal.label>男性-標準窄臉</EdB.PC.HeadType.Male_NarrowNormal.label>
+  <EdB.PC.HeadType.Male_NarrowPointy.label>男性-尖窄臉</EdB.PC.HeadType.Male_NarrowPointy.label>
+  <EdB.PC.HeadType.Male_NarrowWide.label>男性-寬窄臉</EdB.PC.HeadType.Male_NarrowWide.label>
+  <EdB.PC.HeadType.Male_HeavyJawNormal.label>男性-超寬臉臉</EdB.PC.HeadType.Male_HeavyJawNormal.label>
 
+  <EdB.PC.HeadType.Female_AverageNormal.label>女性-標準臉</EdB.PC.HeadType.Female_AverageNormal.label>
+  <EdB.PC.HeadType.Female_AveragePointy.label>女性-尖臉</EdB.PC.HeadType.Female_AveragePointy.label>
+  <EdB.PC.HeadType.Female_AverageWide.label>女性-寬臉</EdB.PC.HeadType.Female_AverageWide.label>
+  <EdB.PC.HeadType.Female_NarrowNormal.label>女性-窄臉</EdB.PC.HeadType.Female_NarrowNormal.label>
+  <EdB.PC.HeadType.Female_NarrowPointy.label>女性-尖窄臉</EdB.PC.HeadType.Female_NarrowPointy.label>
+  <EdB.PC.HeadType.Female_NarrowWide.label>女性-寬窄臉</EdB.PC.HeadType.Female_NarrowWide.label>
+  <EdB.PC.HeadType.Female_HeavyJawNormal.label>女性-超寬臉臉</EdB.PC.HeadType.Female_HeavyJawNormal.label>
 
+  <EdB.PC.HeadType.Furskin_Average1.label>毛茸族-標準1</EdB.PC.HeadType.Furskin_Average1.label>
+  <EdB.PC.HeadType.Furskin_Average2.label>毛茸族-標準2</EdB.PC.HeadType.Furskin_Average2.label>
+  <EdB.PC.HeadType.Furskin_Average3.label>毛茸族-標準3</EdB.PC.HeadType.Furskin_Average3.label>
+
+  <EdB.PC.HeadType.Furskin_Narrow1.label>毛茸族-窄1</EdB.PC.HeadType.Furskin_Narrow1.label>
+  <EdB.PC.HeadType.Furskin_Narrow2.label>毛茸族-窄2</EdB.PC.HeadType.Furskin_Narrow2.label>
+  <EdB.PC.HeadType.Furskin_Narrow3.label>毛茸族-窄3</EdB.PC.HeadType.Furskin_Narrow3.label>
+
+  <EdB.PC.HeadType.Furskin_Heavy1.label>毛茸族-超寬臉1</EdB.PC.HeadType.Furskin_Heavy1.label>
+  <EdB.PC.HeadType.Furskin_Heavy2.label>毛茸族-超寬臉2</EdB.PC.HeadType.Furskin_Heavy2.label>
+  <EdB.PC.HeadType.Furskin_Heavy3.label>毛茸族-超寬臉3</EdB.PC.HeadType.Furskin_Heavy3.label>
+
+  <EdB.PC.HeadType.Furskin_Gaunt.label>毛茸族-憔悴臉</EdB.PC.HeadType.Furskin_Gaunt.label>
+  
+  <EdB.PC.HeadType.Gaunt.label>憔悴臉</EdB.PC.HeadType.Gaunt.label>
+  
+  <EdB.PC.HeadType.Ghoul_Normal.label>食屍鬼-普通臉</EdB.PC.HeadType.Ghoul_Normal.label>
+  <EdB.PC.HeadType.Ghoul_Narrow.label>食屍鬼-窄臉</EdB.PC.HeadType.Ghoul_Narrow.label>
+  <EdB.PC.HeadType.Ghoul_Wide.label>食屍鬼-寬臉</EdB.PC.HeadType.Ghoul_Wide.label>
+  <EdB.PC.HeadType.Ghoul_Heavy.label>食屍鬼-超寬臉</EdB.PC.HeadType.Ghoul_Heavy.label>
+  <EdB.PC.HeadType.CultEscapee.label>邪教脫逃者</EdB.PC.HeadType.CultEscapee.label>
+  <EdB.PC.HeadType.TimelessOne.label>永恆之人</EdB.PC.HeadType.TimelessOne.label>
+  <EdB.PC.HeadType.DarkScholar_Male.label>男性暗黑學者</EdB.PC.HeadType.DarkScholar_Male.label>
+  <EdB.PC.HeadType.Leathery_Male.label>男性皮衣怪人</EdB.PC.HeadType.Leathery_Male.label>
+  <EdB.PC.HeadType.DarkScholar_Female.label>女性暗黑學者</EdB.PC.HeadType.DarkScholar_Female.label>
+  <EdB.PC.HeadType.Leathery_Female.label>女性皮衣怪人</EdB.PC.HeadType.Leathery_Female.label>
+
+  <!--Null派系殖民者類型-->
+  <EdB.PC.PawnKind.Other>其他</EdB.PC.PawnKind.Other>
 </LanguageData>

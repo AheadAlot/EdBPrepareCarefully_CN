@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>CNCG779.PrepareCarefully.cn</identifier>
-    <version>1.5.11</version>
+    <version>1.6.1</version>
     <showCrossPromotions>false</showCrossPromotions>
     <manifestUri>https://github.com/TomStilson/EdBPrepareCarefully_CN/blob/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/TomStilson/EdBPrepareCarefully_CN/releases/latest</downloadUri>
