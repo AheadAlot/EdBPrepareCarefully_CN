@@ -1,4 +1,4 @@
-# EdBPrepareCarefully_CN
+# 已经迁移到https://github.com/AheadAlot/RimWorld-CN-Translations
 
 这是 EdB Prepare Carefully Mod 的汉化版本仓库。此仓库不包含EdB Prepare Carefully的源代码。
 
